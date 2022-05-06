@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios_js",
+  "version": "1.0.0",
+  "description": "EjerciciosLogicaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonaArce68/LogicaJs.git"
+  },
+  "author": "Jona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonaArce68/LogicaJs/issues"
+  },
+  "homepage": "https://github.com/JonaArce68/LogicaJs#readme"
+}
